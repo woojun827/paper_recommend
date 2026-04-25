@@ -1,0 +1,329 @@
+{
+  "total": 149,
+  "offset": 0,
+  "next": 8,
+  "data": [
+    {
+      "paperId": "a6e4d68c70fa56147e8a5da33fa3f6fe0881955b",
+      "externalIds": {
+        "DOI": "10.46248/kidrs.2023.4.27",
+        "CorpusId": 266731814
+      },
+      "url": "https://www.semanticscholar.org/paper/a6e4d68c70fa56147e8a5da33fa3f6fe0881955b",
+      "title": "멀티모달 및 생성 AI를 통한 디자인 연구방법: 민족지학적 방법론을 데이터 기반 분석으로 강화하기",
+      "venue": "Korea Institute of Design Research Society",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.46248/kidrs.2023.4.27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.46248/kidrs.2023.4.27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The use of AI in design research broadens the scope of traditional ethnographic studies in design and provides practical insights for designers and industry practitioners, suggesting a shift towards more data-driven design practice."
+      },
+      "authors": [
+        {
+          "authorId": "2277530392",
+          "name": "Penalva Tebar Jose Miguel"
+        },
+        {
+          "authorId": "2075893525",
+          "name": "Ken Nah"
+        }
+      ],
+      "abstract": "This research examines the application of Multimodal and Generative AI in analyzing interior design trends within the South Korean market. The objective is to enhance traditional ethnographic research methods with AI's quantitative capabilities, offering a more comprehensive understanding of design preferences. This methodology uses AI tools to systematically analyze and categorize design elements from a large dataset of interior design images sourced from a relevant online platform. This process involves extracting key visual trends and patterns using AI-driven semantic analysis and clustering techniques. The study identifies and classifies four dominant design trends, providing a structured overview of current market preferences. By integrating AI into design trend analysis, the study demonstrates a novel approach to understanding consumer preferences, potentially influencing future design decisions. This use of AI in design research broadens the scope of traditional ethnographic studies in design and provides practical insights for designers and industry practitioners, suggesting a shift towards more data-driven design practice."
+    },
+    {
+      "paperId": "4374c98315815e86577d9dc04575654b935cc710",
+      "externalIds": {
+        "MAG": "3046598357",
+        "CorpusId": 226636554
+      },
+      "url": "https://www.semanticscholar.org/paper/4374c98315815e86577d9dc04575654b935cc710",
+      "title": "자율주행 환경에서 멀티모달 에이전트의 인터페이스가 신뢰감과 안전감에 미치는 영향 - 비주행과업 및 제어권 전환 맥락을 중심으로 -",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "70140670",
+          "name": "홍승혜"
+        },
+        {
+          "authorId": "52082363",
+          "name": "최준호"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "af1554f2999b61c17c5dc1cb73728ad89ac684e4",
+      "externalIds": {
+        "MAG": "3183654586",
+        "CorpusId": 238875231
+      },
+      "url": "https://www.semanticscholar.org/paper/af1554f2999b61c17c5dc1cb73728ad89ac684e4",
+      "title": "멀티태스킹 상황에서의 멀티모달 음악 인터페이스 제안",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "135172380",
+          "name": "현지윤"
+        },
+        {
+          "authorId": "52083333",
+          "name": "박승순"
+        },
+        {
+          "authorId": "66360082",
+          "name": "강연아"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "bb6d1aa962ac7552b3befea1cd37bd2f6134b70d",
+      "externalIds": {
+        "MAG": "3107180150",
+        "CorpusId": 229644153
+      },
+      "url": "https://www.semanticscholar.org/paper/bb6d1aa962ac7552b3befea1cd37bd2f6134b70d",
+      "title": "멀티모달 발화 정보를 이용한 대화 제스쳐 생성",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2042569150",
+          "name": "Yoon Youngwoo"
+        },
+        {
+          "authorId": "2055007089",
+          "name": "Minsu Jang"
+        },
+        {
+          "authorId": "67068932",
+          "name": "Lee Jae Yeon"
+        },
+        {
+          "authorId": "2067655203",
+          "name": "Kim Jae Hong"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9897c0d00c6f86bac4b6d1ad2cedc75e0fe3e735",
+      "externalIds": {
+        "MAG": "3111105061",
+        "CorpusId": 233117068
+      },
+      "url": "https://www.semanticscholar.org/paper/9897c0d00c6f86bac4b6d1ad2cedc75e0fe3e735",
+      "title": "멀티모달 데이터 기반 위험 발생 유사성 비교 방법",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "52313114",
+          "name": "권은정"
+        },
+        {
+          "authorId": "65912390",
+          "name": "신원재"
+        },
+        {
+          "authorId": "52423957",
+          "name": "이용태"
+        },
+        {
+          "authorId": "66917877",
+          "name": "이규철"
+        },
+        {
+          "authorId": "2052377527",
+          "name": "Eun-Young Kwon"
+        },
+        {
+          "authorId": "31193255",
+          "name": "W. Shin"
+        },
+        {
+          "authorId": "2109353520",
+          "name": "Yongtai Lee"
+        },
+        {
+          "authorId": "2299480062",
+          "name": "Kyu-Chul Lee"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "94ff231ff5f0b7de971f9867c8e4d8540ce3bf68",
+      "externalIds": {
+        "MAG": "3027010533",
+        "CorpusId": 231366690
+      },
+      "url": "https://www.semanticscholar.org/paper/94ff231ff5f0b7de971f9867c8e4d8540ce3bf68",
+      "title": "펨토초 펄스 레이저를 이용한 고속 멀티모달 비선형 현미경의 개발",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2077914688",
+          "name": "강운교"
+        },
+        {
+          "authorId": "81705063",
+          "name": "류지훈"
+        },
+        {
+          "authorId": "2077960032",
+          "name": "송준우"
+        },
+        {
+          "authorId": "66876956",
+          "name": "김진원"
+        },
+        {
+          "authorId": "70318500",
+          "name": "유홍기"
+        },
+        {
+          "authorId": "87620164",
+          "name": "권보미"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e0c948aadecb5ca2ef8ddcec3e86cbb6f7722cd4",
+      "externalIds": {
+        "MAG": "3027042501",
+        "CorpusId": 230180545
+      },
+      "url": "https://www.semanticscholar.org/paper/e0c948aadecb5ca2ef8ddcec3e86cbb6f7722cd4",
+      "title": "Enhancing multimodal interaction of intelligent interactive systems via thermal feedback = 지능형 인터랙티브 시스템의 멀티모달 인터랙션 증진을 위한 열 피드백",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2109583910",
+          "name": "Se-Young Kim"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "0379a75d06800a002a34c928b7f10fd449da5ed5",
+      "externalIds": {
+        "MAG": "2954529180",
+        "CorpusId": 198644420
+      },
+      "url": "https://www.semanticscholar.org/paper/0379a75d06800a002a34c928b7f10fd449da5ed5",
+      "title": "독감 확산 예측을 위한 멀티모달 학습과 웨어러블 센서 기반의 기침 감지 시스템 설계",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "71249810",
+          "name": "강재식"
+        },
+        {
+          "authorId": "66094683",
+          "name": "백문기"
+        },
+        {
+          "authorId": "2078006151",
+          "name": "최형탁"
+        },
+        {
+          "authorId": "66917877",
+          "name": "이규철"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

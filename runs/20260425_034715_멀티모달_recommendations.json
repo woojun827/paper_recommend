@@ -1,0 +1,1365 @@
+{
+  "query": "멀티모달",
+  "expanded_queries": [
+    "멀티모달",
+    "멀티모달 트랜스포머",
+    "멀티모달 foundational survey"
+  ],
+  "profile": {
+    "interest_keywords": [
+      "트랜스포머"
+    ],
+    "read_papers": [],
+    "difficulty_target": "beginner",
+    "freshness_mode": "classic",
+    "language": "ko",
+    "top_k": 3
+  },
+  "recommended": [
+    {
+      "source": "semantic_scholar",
+      "paper_id": "1139070c61a690bf98ce81e440293e8d2dc5cf57",
+      "title": "Foundational Models for 3D Point Clouds: A Survey and Outlook",
+      "abstract": "The 3D point cloud representation plays a crucial role in preserving the geometric fidelity of the physical world, enabling more accurate complex 3D environments. While humans naturally comprehend the intricate relationships between objects and variations through a multisensory system, artificial intelligence (AI) systems have yet to fully replicate this capacity. To bridge this gap, it becomes essential to incorporate multiple modalities. Models that can seamlessly integrate and reason across these modalities are known as foundation models (FMs). The development of FMs for 2D modalities, such as images and text, has seen significant progress, driven by the abundant availability of large-scale datasets. However, the 3D domain has lagged due to the scarcity of labelled data and high computational overheads. In response, recent research has begun to explore the potential of applying FMs to 3D tasks, overcoming these challenges by leveraging existing 2D knowledge. Additionally, language, with its capacity for abstract reasoning and description of the environment, offers a promising avenue for enhancing 3D understanding through large pre-trained language models (LLMs). Despite the rapid development and adoption of FMs for 3D vision tasks in recent years, there remains a gap in comprehensive and in-depth literature reviews. This article aims to address this gap by presenting a comprehensive overview of the state-of-the-art methods that utilize FMs for 3D visual understanding. We start by reviewing various strategies employed in the building of various 3D FMs. Then we categorize and summarize use of different FMs for tasks such as perception tasks. Finally, the article offers insights into future directions for research and development in this field. To help reader, we have curated list of relevant papers on the topic: https://github.com/vgthengane/Awesome-FMs-in-3D.",
+      "year": 2025,
+      "venue": "arXiv.org",
+      "authors": [
+        "Vishal G. Thengane",
+        "Xiatian Zhu",
+        "A. Bouzerdoum",
+        "S. L. Phung",
+        "Yunpeng Li"
+      ],
+      "citation_count": 11,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A comprehensive overview of the state-of-the-art methods that utilize FMs for 3D visual understanding is presented, categorize and summarize use of different FMs for tasks such as perception tasks.",
+      "url": "https://www.semanticscholar.org/paper/1139070c61a690bf98ce81e440293e8d2dc5cf57",
+      "pdf_url": "",
+      "doi": "10.48550/arxiv.2501.18594",
+      "openalex_id": "",
+      "semantic_scholar_id": "1139070c61a690bf98ce81e440293e8d2dc5cf57",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.3017,
+        "difficulty_match": 0.8429,
+        "novelty": 1.0,
+        "freshness": 0.1,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.355272,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.26,
+      "rationale": "사용자 쿼리인 '멀티모달'과 가장 직접적으로 맞닿아 있고, 초급 난이도이며 설명에 'multiple modalities'와 3D 시각 이해가 명시되어 있어 입문용으로 적합합니다."
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "584ca135b61482fd89247113da87d784f738dbfa",
+      "title": "Foundational Models Defining a New Era in Vision: A Survey and Outlook",
+      "abstract": "Vision systems to see and reason about the compositional nature of visual scenes are fundamental to understanding our world. The complex relations between objects and their locations, ambiguities, and variations in the real-world environment can be better described in human language, naturally governed by grammatical rules and other modalities such as audio and depth. The models learned to bridge the gap between such modalities coupled with large-scale training data facilitate contextual reasoning, generalization, and prompt capabilities at test time. These models are referred to as foundational models. The output of such models can be modified through human-provided prompts without retraining, e.g., segmenting a particular object by providing a bounding box, having interactive dialogues by asking questions about an image or video scene or manipulating the robot's behavior through language instructions. In this survey, we provide a comprehensive review of such emerging foundational models, including typical architecture designs to combine different modalities (vision, text, audio, etc), training objectives (contrastive, generative), pre-training datasets, fine-tuning mechanisms, and the common prompting patterns; textual, visual, and heterogeneous. We discuss the open challenges and research directions for foundational models in computer vision, including difficulties in their evaluations and benchmarking, gaps in their real-world understanding, limitations of their contextual understanding, biases, vulnerability to adversarial attacks, and interpretability issues. We review recent developments in this field, covering a wide range of applications of foundation models systematically and comprehensively. A comprehensive list of foundational models studied in this work is available at \\url{https://github.com/awaisrauf/Awesome-CV-Foundational-Models}.",
+      "year": 2023,
+      "venue": "arXiv.org",
+      "authors": [
+        "Muhammad Awais",
+        "Muzammal Naseer",
+        "Salman Siddique Khan",
+        "R. Anwer",
+        "Hisham Cholakkal",
+        "M. Shah",
+        "Ming Yang",
+        "F. Khan"
+      ],
+      "citation_count": 161,
+      "influential_citation_count": 8,
+      "reference_count": 364,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A comprehensive review of emerging foundational models in computer vision, including typical architecture designs to combine different modalities, training objectives, pre-training datasets, fine-tuning mechanisms, and the common prompting patterns; textual, visual, and heterogeneous.",
+      "url": "https://www.semanticscholar.org/paper/584ca135b61482fd89247113da87d784f738dbfa",
+      "pdf_url": "https://arxiv.org/pdf/2307.13721",
+      "doi": "10.48550/arxiv.2307.13721",
+      "openalex_id": "",
+      "semantic_scholar_id": "584ca135b61482fd89247113da87d784f738dbfa",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.7678,
+        "difficulty_match": 0.8429,
+        "novelty": 1.0,
+        "freshness": 0.3,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.483137,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.26,
+      "rationale": "비전 분야의 foundational models를 다루며, 메타데이터에 'different modalities'를 결합하는 일반적 구조와 학습 목표가 포함되어 있어 멀티모달 기초 이해에 잘 맞습니다."
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "8e5d42f5b98146d0784fe85e29c768a4989e1478",
+      "title": "Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision",
+      "abstract": "Foundation models, large-scale, pre-trained deep-learning models adapted to a wide range of downstream tasks have gained significant interest lately in various deep-learning problems undergoing a paradigm shift with the rise of these models. Trained on large-scale dataset to bridge the gap between different modalities, foundation models facilitate contextual reasoning, generalization, and prompt capabilities at test time. The predictions of these models can be adjusted for new tasks by augmenting the model input with task-specific hints called prompts without requiring extensive labeled data and retraining. Capitalizing on the advances in computer vision, medical imaging has also marked a growing interest in these models. To assist researchers in navigating this direction, this survey intends to provide a comprehensive overview of foundation models in the domain of medical imaging. Specifically, we initiate our exploration by providing an exposition of the fundamental concepts forming the basis of foundation models. Subsequently, we offer a methodical taxonomy of foundation models within the medical domain, proposing a classification system primarily structured around training strategies, while also incorporating additional facets such as application domains, imaging modalities, specific organs of interest, and the algorithms integral to these models. Furthermore, we emphasize the practical use case of some selected approaches and then discuss the opportunities, applications, and future directions of these large-scale pre-trained models, for analyzing medical images. In the same vein, we address the prevailing challenges and research pathways associated with foundational models in medical imaging. These encompass the areas of interpretability, data management, computational requirements, and the nuanced issue of contextual comprehension.",
+      "year": 2023,
+      "venue": "arXiv.org",
+      "authors": [
+        "Bobby Azad",
+        "Reza Azad",
+        "Sania Eskandari",
+        "Afshin Bozorgpour",
+        "A. Kazerouni",
+        "I. Rekik",
+        "D. Merhof"
+      ],
+      "citation_count": 118,
+      "influential_citation_count": 4,
+      "reference_count": 92,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A methodical taxonomy of foundation models within the medical domain is offered, proposing a classification system primarily structured around training strategies, while also incorporating additional facets such as application domains, imaging modalities, specific organs of interest, and the algorithms integral to these models.",
+      "url": "https://www.semanticscholar.org/paper/8e5d42f5b98146d0784fe85e29c768a4989e1478",
+      "pdf_url": "",
+      "doi": "10.48550/arxiv.2310.18689",
+      "openalex_id": "",
+      "semantic_scholar_id": "8e5d42f5b98146d0784fe85e29c768a4989e1478",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.6858,
+        "difficulty_match": 0.8429,
+        "novelty": 1.0,
+        "freshness": 0.3,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.463457,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.26,
+      "rationale": "의료영상 도메인에서 foundation models를 다루지만, 설명에 다양한 모달리티를 bridge한다고 명시되어 있어 멀티모달 개념을 다른 응용 분야로 확장해 보는 데 유용합니다."
+    }
+  ],
+  "ranked": [
+    {
+      "source": "semantic_scholar",
+      "paper_id": "09d8841eeb362a2c04f055f70f16d634093c83bc",
+      "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey",
+      "abstract": "Agentic AI, an emerging paradigm in artificial intelligence, refers to autonomous systems designed to pursue complex goals with minimal human intervention. Unlike traditional AI, which depends on structured instructions and close oversight, Agentic AI demonstrates adaptability, advanced decision-making capabilities and self-sufficiency, enabling it to operate dynamically in evolving environments. This survey thoroughly explores the foundational concepts, unique characteristics, and core methodologies driving the development of Agentic AI. We examine its current and potential applications across various fields, including healthcare, finance, and adaptive software systems, emphasizing the advantages of deploying agentic systems in real-world scenarios. The paper also addresses the ethical challenges posed by Agentic AI, proposing solutions for goal alignment, resource constraints, and environmental adaptability. We outline a framework for safely and effectively integrating Agentic AI into society, highlighting the need for further research on ethical considerations to ensure beneficial societal impacts. This survey serves as a comprehensive introduction to Agentic AI, guiding researchers, developers, and policymakers in engaging with its transformative potential responsibly and creatively.",
+      "year": 2025,
+      "venue": "IEEE Access",
+      "authors": [
+        "D. Acharya",
+        "Karthigeyan Kuppan",
+        "Divya Bhaskaracharya"
+      ],
+      "citation_count": 442,
+      "influential_citation_count": 23,
+      "reference_count": 101,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "This survey thoroughly explores the foundational concepts, unique characteristics, and core methodologies driving the development of Agentic AI, and outlines a framework for safely and effectively integrating Agentic AI into society.",
+      "url": "https://www.semanticscholar.org/paper/09d8841eeb362a2c04f055f70f16d634093c83bc",
+      "pdf_url": "https://doi.org/10.1109/access.2025.3532853",
+      "doi": "10.1109/access.2025.3532853",
+      "openalex_id": "",
+      "semantic_scholar_id": "09d8841eeb362a2c04f055f70f16d634093c83bc",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 1.0,
+        "difficulty_match": 0.7857,
+        "novelty": 1.0,
+        "freshness": 0.1,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.513714,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.30000000000000004,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "584ca135b61482fd89247113da87d784f738dbfa",
+      "title": "Foundational Models Defining a New Era in Vision: A Survey and Outlook",
+      "abstract": "Vision systems to see and reason about the compositional nature of visual scenes are fundamental to understanding our world. The complex relations between objects and their locations, ambiguities, and variations in the real-world environment can be better described in human language, naturally governed by grammatical rules and other modalities such as audio and depth. The models learned to bridge the gap between such modalities coupled with large-scale training data facilitate contextual reasoning, generalization, and prompt capabilities at test time. These models are referred to as foundational models. The output of such models can be modified through human-provided prompts without retraining, e.g., segmenting a particular object by providing a bounding box, having interactive dialogues by asking questions about an image or video scene or manipulating the robot's behavior through language instructions. In this survey, we provide a comprehensive review of such emerging foundational models, including typical architecture designs to combine different modalities (vision, text, audio, etc), training objectives (contrastive, generative), pre-training datasets, fine-tuning mechanisms, and the common prompting patterns; textual, visual, and heterogeneous. We discuss the open challenges and research directions for foundational models in computer vision, including difficulties in their evaluations and benchmarking, gaps in their real-world understanding, limitations of their contextual understanding, biases, vulnerability to adversarial attacks, and interpretability issues. We review recent developments in this field, covering a wide range of applications of foundation models systematically and comprehensively. A comprehensive list of foundational models studied in this work is available at \\url{https://github.com/awaisrauf/Awesome-CV-Foundational-Models}.",
+      "year": 2023,
+      "venue": "arXiv.org",
+      "authors": [
+        "Muhammad Awais",
+        "Muzammal Naseer",
+        "Salman Siddique Khan",
+        "R. Anwer",
+        "Hisham Cholakkal",
+        "M. Shah",
+        "Ming Yang",
+        "F. Khan"
+      ],
+      "citation_count": 161,
+      "influential_citation_count": 8,
+      "reference_count": 364,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A comprehensive review of emerging foundational models in computer vision, including typical architecture designs to combine different modalities, training objectives, pre-training datasets, fine-tuning mechanisms, and the common prompting patterns; textual, visual, and heterogeneous.",
+      "url": "https://www.semanticscholar.org/paper/584ca135b61482fd89247113da87d784f738dbfa",
+      "pdf_url": "https://arxiv.org/pdf/2307.13721",
+      "doi": "10.48550/arxiv.2307.13721",
+      "openalex_id": "",
+      "semantic_scholar_id": "584ca135b61482fd89247113da87d784f738dbfa",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.7678,
+        "difficulty_match": 0.8429,
+        "novelty": 1.0,
+        "freshness": 0.3,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.483137,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.26,
+      "rationale": "비전 분야의 foundational models를 다루며, 메타데이터에 'different modalities'를 결합하는 일반적 구조와 학습 목표가 포함되어 있어 멀티모달 기초 이해에 잘 맞습니다."
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "8e5d42f5b98146d0784fe85e29c768a4989e1478",
+      "title": "Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision",
+      "abstract": "Foundation models, large-scale, pre-trained deep-learning models adapted to a wide range of downstream tasks have gained significant interest lately in various deep-learning problems undergoing a paradigm shift with the rise of these models. Trained on large-scale dataset to bridge the gap between different modalities, foundation models facilitate contextual reasoning, generalization, and prompt capabilities at test time. The predictions of these models can be adjusted for new tasks by augmenting the model input with task-specific hints called prompts without requiring extensive labeled data and retraining. Capitalizing on the advances in computer vision, medical imaging has also marked a growing interest in these models. To assist researchers in navigating this direction, this survey intends to provide a comprehensive overview of foundation models in the domain of medical imaging. Specifically, we initiate our exploration by providing an exposition of the fundamental concepts forming the basis of foundation models. Subsequently, we offer a methodical taxonomy of foundation models within the medical domain, proposing a classification system primarily structured around training strategies, while also incorporating additional facets such as application domains, imaging modalities, specific organs of interest, and the algorithms integral to these models. Furthermore, we emphasize the practical use case of some selected approaches and then discuss the opportunities, applications, and future directions of these large-scale pre-trained models, for analyzing medical images. In the same vein, we address the prevailing challenges and research pathways associated with foundational models in medical imaging. These encompass the areas of interpretability, data management, computational requirements, and the nuanced issue of contextual comprehension.",
+      "year": 2023,
+      "venue": "arXiv.org",
+      "authors": [
+        "Bobby Azad",
+        "Reza Azad",
+        "Sania Eskandari",
+        "Afshin Bozorgpour",
+        "A. Kazerouni",
+        "I. Rekik",
+        "D. Merhof"
+      ],
+      "citation_count": 118,
+      "influential_citation_count": 4,
+      "reference_count": 92,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A methodical taxonomy of foundation models within the medical domain is offered, proposing a classification system primarily structured around training strategies, while also incorporating additional facets such as application domains, imaging modalities, specific organs of interest, and the algorithms integral to these models.",
+      "url": "https://www.semanticscholar.org/paper/8e5d42f5b98146d0784fe85e29c768a4989e1478",
+      "pdf_url": "",
+      "doi": "10.48550/arxiv.2310.18689",
+      "openalex_id": "",
+      "semantic_scholar_id": "8e5d42f5b98146d0784fe85e29c768a4989e1478",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.6858,
+        "difficulty_match": 0.8429,
+        "novelty": 1.0,
+        "freshness": 0.3,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.463457,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.26,
+      "rationale": "의료영상 도메인에서 foundation models를 다루지만, 설명에 다양한 모달리티를 bridge한다고 명시되어 있어 멀티모달 개념을 다른 응용 분야로 확장해 보는 데 유용합니다."
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "193968640e857c9300a0a5eebc1eb3b10c58335e",
+      "title": "Foundational ontologies meet ontology matching: A survey",
+      "abstract": "Ontology matching is a research area aimed at finding ways to make different ontologies interoperable. Solutions to the problem have been proposed from different disciplines, including databases, natural language processing, and machine learning. The role of foundational ontologies for ontology matching is an important one, as they provide a well-founded reference model that can be shared across domains. It is multifaceted and with room for development. This paper presents an overview of the different tasks involved in ontology matching that consider foundational ontologies. We discuss the strengths and weaknesses of existing proposals and highlight the challenges to be addressed in the future.",
+      "year": 2021,
+      "venue": "Semantic Web",
+      "authors": [
+        "C. Trojahn",
+        "R. Vieira",
+        "Daniela Schmidt",
+        "A. Pease",
+        "G. Guizzardi"
+      ],
+      "citation_count": 45,
+      "influential_citation_count": 0,
+      "reference_count": 95,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "An overview of the different tasks involved in ontology matching that consider foundational ontologies is presented and the strengths and weaknesses of existing proposals are discussed and the challenges to be addressed in the future are highlighted.",
+      "url": "https://www.semanticscholar.org/paper/193968640e857c9300a0a5eebc1eb3b10c58335e",
+      "pdf_url": "https://content.iospress.com:443/download/semantic-web/sw210447?id=semantic-web%2Fsw210447",
+      "doi": "10.3233/sw-210447",
+      "openalex_id": "",
+      "semantic_scholar_id": "193968640e857c9300a0a5eebc1eb3b10c58335e",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.4321,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 0.5,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.441414,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "8135d93c18222177c8a77fcfec549d227027ab22",
+      "title": "Foundational AI in Insurance and Real Estate: A Survey of Applications, Challenges, and Future Directions",
+      "abstract": "This paper provides a comprehensive survey on the applications, challenges, and future directions of Artificial Intelligence (AI) in the insurance and real estate sectors. We explore key AI-driven solutions, such as advanced risk assessment, predictive analytics for fraud detection, and smart building management, highlighting their impact on enhancing operational efficiency and decision-making processes. The survey covers a wide range of AI techniques, including machine learning, deep learning, and natural language processing, and discusses their specific applications within these industries. We address critical challenges, such as data quality issues, the need for model interpretability, regulatory compliance, and integration with existing systems. Additionally, we identify emerging trends, such as the adoption of reinforcement learning for dynamic pricing and the use of AI for personalized insurance products. The paper concludes by outlining significant research gaps and proposing a roadmap for future work, aimed at guiding the development of more robust, explainable, and ethically sound AI applications in insurance and real estate.",
+      "year": 2024,
+      "venue": "IEEE Access",
+      "authors": [
+        "Karthigeyan Kuppan",
+        "Deepak Bhaskar Acharya",
+        "D. B"
+      ],
+      "citation_count": 15,
+      "influential_citation_count": 1,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/8135d93c18222177c8a77fcfec549d227027ab22",
+      "pdf_url": "",
+      "doi": "10.1109/access.2024.3509918",
+      "openalex_id": "",
+      "semantic_scholar_id": "8135d93c18222177c8a77fcfec549d227027ab22",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.3725,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 0.2,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.403111,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "880c3ebc785790d5c49cfcb971d4bb45a09eaab4",
+      "title": "Embedded Therapists: Who Do They Serve? How are They Funded? And Where are They Housed? A Foundational Survey of Emerging Models",
+      "abstract": "ABSTRACT With the rise in demand for mental health services on college and university campuses, counseling centers have engaged in numerous creative methods to expand services to meet these increasing demands. One approach within campus counseling centers, with promise, is embedded therapists. Despite the increasing application of embedded therapists, there is a paucity of research to inform the development and implementation of this innovative service method on college and university campuses. This study serves as a foundational survey of college and university counseling centers’ embedded therapists to establish foundational data on defining features of emerging embedded models. Data for this study consisted of 39 college and university counseling center directors who provided information on 105 embedded therapists via a Qaultrics survey. Embedded therapists differed regarding who they served, where they were housed, source of funding, and various other system-level factors. The results of this study are discussed regarding commonalities and differences across emerging models of embedded programs.",
+      "year": 2021,
+      "venue": "Journal of College Student Psychotherapy",
+      "authors": [
+        "Barry A. Schreier",
+        "Cari L. Anderson",
+        "P. Galligan",
+        "Brittany Greenbaum",
+        "J. Corkery",
+        "Teri Schnelle",
+        "Chelsey Gates",
+        "Jung Eui Hong",
+        "D. Kivlighan"
+      ],
+      "citation_count": 7,
+      "influential_citation_count": 1,
+      "reference_count": 22,
+      "fields_of_study": [],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/880c3ebc785790d5c49cfcb971d4bb45a09eaab4",
+      "pdf_url": "",
+      "doi": "10.1080/87568225.2021.1913686",
+      "openalex_id": "",
+      "semantic_scholar_id": "880c3ebc785790d5c49cfcb971d4bb45a09eaab4",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.2664,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 0.5,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.401656,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "arxiv",
+      "paper_id": "http://arxiv.org/abs/astro-ph/0611654v1",
+      "title": "A rich bounty of AGN in the 9 square degree Bootes survey: high-z obscured AGN and large-scale structure",
+      "abstract": "We use observations from the 9 square degree multiwavelength survey in Bootes to identify hundreds of obscured active galactic nuclei (AGN) with high redshifts (z > 0.7), luminosities (L_bol > 10^45 ergs/s), and moderate obscuring columns (N_H > 10^22 cm^-2), and to measure the clustering properties of X-ray AGN at z > 1. In the Bootes region, shallow (5 ks) Chandra X-ray observations have detected ~4,000 X-ray sources, and the same region has been mapped with deep optical imaging and by Spitzer IRAC, which detects ~300,000 point sources, of which ~30,000 have detections in all four IRAC bands, for which we can select AGN on the basis of their mid-IR colors. With the MMT/Hectospec we have obtained modest resolution optical spectra for about half the X-ray sources (out to z > 3) and ~20,000 galaxies (out to z = 0.7). With this multiwavelength data we select >400 AGN per square degree (compared to 12 per square degree from SDSS). Among a sample of IRAC-selected AGN we identify 641 candidate obscured objects based on their R band and IRAC luminosities. We use X-ray stacking techniques to verify that they are obscured AGN and measure their absorbing column densities. We also measure the three-dimensional two-point correlation function for X-ray selected AGN.",
+      "year": 2006,
+      "venue": "arXiv",
+      "authors": [
+        "R. C. Hickox",
+        "C. Jones",
+        "W. R. Forman",
+        "S. S. Murray",
+        "A. Kenter",
+        "M. Brodwin",
+        "the Chandra XBootes",
+        "NOAO Deep Wide-Field Survey",
+        "Spitzer IRAC Shallow Survey",
+        "AGES Teams"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "astro-ph"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "http://arxiv.org/abs/astro-ph/0611654v1",
+      "pdf_url": "https://arxiv.org/pdf/astro-ph/0611654v1",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.377714,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "arxiv",
+      "paper_id": "http://arxiv.org/abs/1210.0979v1",
+      "title": "The Methanol Multibeam Survey",
+      "abstract": "A purpose built 7-beam methanol receiver, installed on the Parkes Radio Telescope, was used to survey the Galactic plane for newly forming high mass stars, pinpointed by strong methanol maser emission at 6.7 GHz. The Methanol Multibeam (MMB) survey observed over 60% of the Galactic plane, detecting close to 1000 sources. The MMB survey provides a huge resource for studies of high-mass star formation, an important stage in the evolution of the interstellar medium. The MMB survey is also a valuable resource for investigations into the structure and dynamics of our Galaxy: with narrow velocity ranges of emission (typically only a few km/s) and velocities closely correlated with the systemic velocity of their surrounding molecular clouds, 6.7-GHz methanol masers provide estimates of the spiral arm velocities and their structure. I will discuss the techniques and properties of the MMB survey, before outlining recent results, which include the identification of regions of enhanced star formation believed to be indicative of the origins of the spiral arms and the interaction of the Galactic bar with the 3-kpc arms. I will also discuss the various follow-up programmes including a study of magnetic fields through associated hydroxyl masers.",
+      "year": 2012,
+      "venue": "arXiv",
+      "authors": [
+        "J. A. Green",
+        "the Methanol Multibeam Survey Collaboration"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "astro-ph.IM"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "http://arxiv.org/abs/1210.0979v1",
+      "pdf_url": "https://arxiv.org/pdf/1210.0979v1",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.377714,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "arxiv",
+      "paper_id": "http://arxiv.org/abs/astro-ph/0510346v1",
+      "title": "The Dark Energy Survey",
+      "abstract": "We describe the Dark Energy Survey (DES), a proposed optical-near infrared survey of 5000 sq. deg of the South Galactic Cap to ~24th magnitude in SDSS griz, that would use a new 3 sq. deg CCD camera to be mounted on the Blanco 4-m telescope at Cerro Telolo Inter-American Observatory (CTIO). The survey data will allow us to measure the dark energy and dark matter densities and the dark energy equation of state through four independent methods: galaxy clusters, weak gravitational lensing tomography, galaxy angular clustering, and supernova distances. These methods are doubly complementary: they constrain different combinations of cosmological model parameters and are subject to different systematic errors. By deriving the four sets of measurements from the same data set with a common analysis framework, we will obtain important cross checks of the systematic errors and thereby make a substantial and robust advance in the precision of dark energy measurements.",
+      "year": 2005,
+      "venue": "arXiv",
+      "authors": [
+        "The Dark Energy Survey Collaboration"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "astro-ph"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "http://arxiv.org/abs/astro-ph/0510346v1",
+      "pdf_url": "https://arxiv.org/pdf/astro-ph/0510346v1",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.377714,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "arxiv",
+      "paper_id": "http://arxiv.org/abs/1409.4147v1",
+      "title": "The SAMI Galaxy Survey: first 1000 galaxies",
+      "abstract": "The Sydney-AAO Multi-object Integral field spectrograph (SAMI) Galaxy Survey is an ongoing project to obtain integral field spectroscopic observations of ~3400 galaxies by mid-2016. Including the pilot survey, a total of ~1000 galaxies have been observed to date, making the SAMI Galaxy Survey the largest of its kind in existence. This unique dataset allows a wide range of investigations into different aspects of galaxy evolution. The first public data from the SAMI Galaxy Survey, consisting of 107 galaxies drawn from the full sample, has now been released. By giving early access to SAMI data for the entire research community, we aim to stimulate research across a broad range of topics in galaxy evolution. As the sample continues to grow, the survey will open up a new and unique parameter space for galaxy evolution studies.",
+      "year": 2014,
+      "venue": "arXiv",
+      "authors": [
+        "J. T. Allen",
+        "the SAMI Galaxy Survey Team"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "astro-ph.GA"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "http://arxiv.org/abs/1409.4147v1",
+      "pdf_url": "https://arxiv.org/pdf/1409.4147v1",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.9857,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.377714,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.16000000000000003,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "c9202c0e631bb280430b1c65cd8737aad08422a8",
+      "title": "The Survey on Multi-Source Data Fusion in Cyber-Physical-Social Systems: Foundational Infrastructure for Industrial Metaverses and Industries 5.0",
+      "abstract": "As the concept of Industries 5.0 develops, industrial metaverses are expected to operate in parallel with the actual industrial processes to offer ``Human-Centric\"Safe, Secure, Sustainable, Sensitive, Service, and Smartness ``6S\"manufacturing solutions. Industrial metaverses not only visualize the process of productivity in a dynamic and evolutional way, but also provide an immersive laboratory experimental environment for optimizing and remodeling the process. Besides, the customized user needs that are hidden in social media data can be discovered by social computing technologies, which introduces an input channel for building the whole social manufacturing process including industrial metaverses. This makes the fusion of multi-source data cross Cyber-Physical-Social Systems (CPSS) the foundational and key challenge. This work firstly proposes a multi-source-data-fusion-driven operational architecture for industrial metaverses on the basis of conducting a comprehensive literature review on the state-of-the-art multi-source data fusion methods. The advantages and disadvantages of each type of method are analyzed by considering the fusion mechanisms and application scenarios. Especially, we combine the strengths of deep learning and knowledge graphs in scalability and parallel computation to enable our proposed framework the ability of prescriptive optimization and evolution. This integration can address the shortcomings of deep learning in terms of explainability and fact fabrication, as well as overcoming the incompleteness and the challenges of construction and maintenance inherent in knowledge graphs. The effectiveness of the proposed architecture is validated through a parallel weaving case study. In the end, we discuss the challenges and future directions of multi-source data fusion cross CPSS for industrial metaverses and social manufacturing in Industries 5.0.",
+      "year": 2024,
+      "venue": "Information Fusion",
+      "authors": [
+        "Xiao Wang",
+        "Yutong Wang",
+        "Jing Yang",
+        "Xiaofeng Jia",
+        "Lijun Li",
+        "Weiping Ding",
+        "Fei-Yue Wang"
+      ],
+      "citation_count": 29,
+      "influential_citation_count": 0,
+      "reference_count": 184,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A multi-source-data-fusion-driven operational architecture for industrial metaverses that combines the strengths of deep learning and knowledge graphs in scalability and parallel computation to enable the ability of prescriptive optimization and evolution is proposed.",
+      "url": "https://www.semanticscholar.org/paper/c9202c0e631bb280430b1c65cd8737aad08422a8",
+      "pdf_url": "",
+      "doi": "10.1016/j.inffus.2024.102321",
+      "openalex_id": "",
+      "semantic_scholar_id": "c9202c0e631bb280430b1c65cd8737aad08422a8",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.4044,
+        "difficulty_match": 0.6429,
+        "novelty": 1.0,
+        "freshness": 0.2,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.355912,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.4,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "1139070c61a690bf98ce81e440293e8d2dc5cf57",
+      "title": "Foundational Models for 3D Point Clouds: A Survey and Outlook",
+      "abstract": "The 3D point cloud representation plays a crucial role in preserving the geometric fidelity of the physical world, enabling more accurate complex 3D environments. While humans naturally comprehend the intricate relationships between objects and variations through a multisensory system, artificial intelligence (AI) systems have yet to fully replicate this capacity. To bridge this gap, it becomes essential to incorporate multiple modalities. Models that can seamlessly integrate and reason across these modalities are known as foundation models (FMs). The development of FMs for 2D modalities, such as images and text, has seen significant progress, driven by the abundant availability of large-scale datasets. However, the 3D domain has lagged due to the scarcity of labelled data and high computational overheads. In response, recent research has begun to explore the potential of applying FMs to 3D tasks, overcoming these challenges by leveraging existing 2D knowledge. Additionally, language, with its capacity for abstract reasoning and description of the environment, offers a promising avenue for enhancing 3D understanding through large pre-trained language models (LLMs). Despite the rapid development and adoption of FMs for 3D vision tasks in recent years, there remains a gap in comprehensive and in-depth literature reviews. This article aims to address this gap by presenting a comprehensive overview of the state-of-the-art methods that utilize FMs for 3D visual understanding. We start by reviewing various strategies employed in the building of various 3D FMs. Then we categorize and summarize use of different FMs for tasks such as perception tasks. Finally, the article offers insights into future directions for research and development in this field. To help reader, we have curated list of relevant papers on the topic: https://github.com/vgthengane/Awesome-FMs-in-3D.",
+      "year": 2025,
+      "venue": "arXiv.org",
+      "authors": [
+        "Vishal G. Thengane",
+        "Xiatian Zhu",
+        "A. Bouzerdoum",
+        "S. L. Phung",
+        "Yunpeng Li"
+      ],
+      "citation_count": 11,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "A comprehensive overview of the state-of-the-art methods that utilize FMs for 3D visual understanding is presented, categorize and summarize use of different FMs for tasks such as perception tasks.",
+      "url": "https://www.semanticscholar.org/paper/1139070c61a690bf98ce81e440293e8d2dc5cf57",
+      "pdf_url": "",
+      "doi": "10.48550/arxiv.2501.18594",
+      "openalex_id": "",
+      "semantic_scholar_id": "1139070c61a690bf98ce81e440293e8d2dc5cf57",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.3017,
+        "difficulty_match": 0.8429,
+        "novelty": 1.0,
+        "freshness": 0.1,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.355272,
+      "estimated_difficulty": "beginner",
+      "estimated_difficulty_score": 0.26,
+      "rationale": "사용자 쿼리인 '멀티모달'과 가장 직접적으로 맞닿아 있고, 초급 난이도이며 설명에 'multiple modalities'와 3D 시각 이해가 명시되어 있어 입문용으로 적합합니다."
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W1952382788",
+      "title": "뇌-행동 기반 멀티모달 단편 기억처리 분석",
+      "abstract": "최근 스마트폰이나 태블릿PC 등 모바일 기기의 사용량이 증가하고, 또 구글 글래스나 갤럭시 기어와 같은 웨어러블 컴퓨터가 등장하는 시점에서, 고차원의 빅데이터 처리나 Life-long 학습의 중요성이 대두되고 있다. 특히 다양한 센서들을 통해 획득한 멀티모달 데이터의 실시간 처리는 매우 중요하며, 이를 위해서 뇌의 기억 처리 과정을 연구할 필요가 있다. 하지만 인간의 뇌가 접하는 자연적 감각 자극들이 동적이고 멀티모달한 특성을 가졌음에도 불구하고, 대다수 연구들에서는 조건적이고 정적인 실험 자극이 제시되는 다소 통제적인 실험 프로토콜을 사용하고 있다. 이에 본 연구에서는 사실적인 실험 환경 내에서 일화기억 과정에 대한 실험을 수행하기 위해, 먼저 서술적 요소가 포함된 동영상을 실험 자극으로 사용하는 기억 과제를 개발하고, 다음으로 행동 요소가 고려되는 경우에 대해서 기억인출 과정과 뇌영상 데이터 간 상관관계를 분석하였다. 실험 결과에서는 비디오와 같이 멀티모달한 실험 자극을 사용하는 경우에도 기존 연구들과 유사한 결과가 나타나는 것을 발견하였으며, 반응시간과 같은 행동 요소를 통해 기억 과정과 관련된 뇌전도 데이터를 해석하는 것이 유의미함을 확인할 수 있었다.",
+      "year": 2013,
+      "venue": "",
+      "authors": [
+        "이충연",
+        "장병탁"
+      ],
+      "citation_count": 8,
+      "influential_citation_count": 0,
+      "reference_count": 1,
+      "fields_of_study": [
+        "Military Technology and Strategies",
+        "Legal and Regulatory Analysis",
+        "Linguistic, Cultural, and Literary Studies"
+      ],
+      "keywords": [
+        "Computer science"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W1952382788",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1952382788",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.2137,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.311297,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W2297628473",
+      "title": "Music Genre Classification using Multimodal Deep Learning",
+      "abstract": "기계학습의 한 분야인 딥러닝은 최근 다양한 분야에서 비약적인 성능 향상에 기여하였다. 본 논문은 음악 장르분류 문제에 있어서 최초로 멀티모달 딥러닝 구조를 이용할 수 있는 모델을 제안한다. 음악의 스펙트로그램 이미지에 대한 분석을 위해 CNN(Convolutional Neural Network)을 사용하였으며, 음원의 연속적인 데이터에 대해 RNN(Recurrent Neural Network)을 사용하였다. 또한 대표적인 정규화(Regularization)기법인 dropout 을 적용하여 과적합(overfitting) 문제를 해결하였다. 본 연구에서 제안된 멀티모달 딥러닝 모델이 단일 딥러닝 방법보다 음악 장르 분류의 성능 향상에 탁월하게 작용함을 확인할 수 있었다.",
+      "year": 2016,
+      "venue": "",
+      "authors": [
+        "Seonhoon Kim",
+        "Daesik Kim",
+        "Bongwon Suh"
+      ],
+      "citation_count": 7,
+      "influential_citation_count": 0,
+      "reference_count": 21,
+      "fields_of_study": [
+        "Music and Audio Processing",
+        "Speech and Audio Processing",
+        "Music Technology and Sound Studies"
+      ],
+      "keywords": [
+        "Computer science",
+        "Deep learning",
+        "Artificial intelligence",
+        "Natural language processing"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W2297628473",
+      "pdf_url": "",
+      "doi": "10.17210/hcik.2016.01.389",
+      "openalex_id": "https://openalex.org/W2297628473",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.2051,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.309232,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W1962783871",
+      "title": "모바일 멀티모달 센서 정보의 앙상블 학습을 이용한 장소 인식",
+      "abstract": "본 논문에서는 시각, 음향, 위치 정보를 포함하는 멀티모달 센서 입력 정보로부터 사용자가 위치한 장소의 환경 정보를 학습하고 기계학습 추론을 통해 장소를 인식하는 방법을 제안한다. 이 방법은 음영 지역에서의 정확도 감소나 추가 하드웨어 필요 등 기존 위치 정보 인식 방법이 가지는 제약을 극복 가능하고, 지도상의 단순 좌표 인식이 아닌 논리적 위치 정보 인식을 수행 가능하다는 점에서 해당 위치와 관련된 특정 정보를 활용하여 다양한 생활편의를 제공하는 위치 기반 서비스를 수행하는데 보다 효과적인 방법이 될 수 있다. 제안하는 방법에서는 스마트폰에 내장된 카메라, 마이크로폰, GPS 센서 모듈로부터 획득한 시각, 음향, 위치 정보로부터 특징 벡터들을 추출하여 학습한다. 이때 서로 다른 특성을 가진 특징 벡터들을 학습하기 위해 각각의 특징 벡터들을 서로 다른 분류기를 통해 학습한 후, 그 결과를 기반으로 최종적인 하나의 분류 결과를 얻어내는 앙상블 기법을 사용한다. 실험 결과에서는 각각의 데이터를 따로 학습하여 분류한 결과와 비교하여 높은 성능을 보였다. 또한 사용자 상황인지 기반 서비스의 성능 향상을 위한 방법으로서 제안하는 모델의 스마트폰 앱 구현을 통한 활용 가능성에 대해 논의한다.",
+      "year": 2015,
+      "venue": "",
+      "authors": [
+        "이충연",
+        "이범진",
+        "온경운",
+        "하정우",
+        "김홍일",
+        "장병탁"
+      ],
+      "citation_count": 5,
+      "influential_citation_count": 0,
+      "reference_count": 1,
+      "fields_of_study": [
+        "Military Technology and Strategies",
+        "Legal and Regulatory Analysis",
+        "Linguistic, Cultural, and Literary Studies"
+      ],
+      "keywords": [
+        "Global Positioning System",
+        "Computer science"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W1962783871",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1962783871",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.1734,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.301616,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W2116032317",
+      "title": "휴대폰용 멀티모달 인터페이스 개발",
+      "abstract": "휴대폰은 현대 생활에 없어서는 안 될 개인화 단말기가 되었으며, 그 위에서 다양한 디바이스, 컨텐츠 및 서비 스의 컨버전스가 이루어지고 있다. 그러한 다양하고 복잡한 기능과 대용량 컨텐츠 및 정보를 효과적으로 검색하고 사용할 수 있는 수단에 대한 연구도 활발히 진행되고 있다. 본 연구는 휴대폰 상에서 음성, 키패드, 모션을 이용하여 한글 단어를 입력하는 새로운 인터페이스를 개발하고, 이를 응용한 전화걸기 애플리케이션을 통하여 그 사용성과 효과를 검증하는 것을 목적으로 한다. 개발된 멀티모달 인터페이스는 복잡한 메뉴 트리와 깊이를 한 번에 접근할 수 있는 음성 인터페이스의 장점을 수용하면서 인식률 및 인식시간을 개선하였다.",
+      "year": 2008,
+      "venue": "International Conference on Human-Computer Interaction",
+      "authors": [
+        "김원우"
+      ],
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Military Technology and Strategies",
+        "Legal and Regulatory Analysis",
+        "Linguistic, Cultural, and Literary Studies"
+      ],
+      "keywords": [
+        "Computer science"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W2116032317",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2116032317",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.1013,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.284316,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W2255714775",
+      "title": "멀티모달 특징을 이용한 컨텐츠 기반 저작을 위한 비디오 장르 식별",
+      "abstract": "",
+      "year": 2004,
+      "venue": "대한전자공학회 학술대회",
+      "authors": [
+        "진성호",
+        "배태면",
+        "강석준",
+        "노용만",
+        "강경옥"
+      ],
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 1,
+      "fields_of_study": [
+        "Military Technology and Strategies",
+        "Legal and Regulatory Analysis",
+        "Linguistic, Cultural, and Literary Studies"
+      ],
+      "keywords": [
+        "Computer science"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W2255714775",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2255714775",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.1006,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.284139,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W2170771850",
+      "title": "멀티모달 가이던스가 독보 기능 습득에 미치는 영향",
+      "abstract": "We introduce a learning system for the sight reading of simple drum sequences. Sight reading is a cognitive-motor skill that requires reading of music symbols and actions of multiple limbs for playing the music. The system provides knowledge of results (KR) pertaining to the learners performance by color-coding music symbols, and guides the learner by indicating the corresponding action for a given music symbol using additional auditory or vibrotactile cues. To evaluate the effects of KR and guidance cues, three learning methods were experimentally compared: KR only, KR with auditory cues, and KR with vibrotactile cues. The task was to play a random 16-note-long drum sequence displayed on a screen. Thirty university students learned the task using one of the learning methods in a between-subjects design. The experimental results did not show statistically significant differences between the methods in terms of task accuracy and completion time.",
+      "year": 2013,
+      "venue": "로봇학회 논문지",
+      "authors": [
+        "이인",
+        "최승문"
+      ],
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Visual and Cognitive Learning Processes",
+        "Tactile and Sensory Interactions",
+        "Hearing Impairment and Communication"
+      ],
+      "keywords": [
+        "Task (project management)",
+        "Sight",
+        "Computer science",
+        "Speech recognition",
+        "Reading (process)",
+        "Psychology",
+        "Coding (social sciences)",
+        "Communication",
+        "Mathematics",
+        "Linguistics"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W2170771850",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2170771850",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0642,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.275403,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W2212320473",
+      "title": "스테레오 영상과 오디오를 이용한 멀티모달 위치추정시스템 구현",
+      "abstract": "본 논문에서는 스테레오 영상과 오디오를 이용하여 얻어진 정보를 바탕으로 다수 발화자의 위치를 추정하는 멀티모달 위치추정 시스템을 제안한다. 스테레오 카메라로부터 획득한 영상정보를 바탕으로 Adaboost 알고리즘과 Haar-like 특징을 이용하여 얼굴을 검출한 후 삼각측량법으로 검출된 얼굴들의 위치를 측정하였다. 그리고 2개의 마이크로폰으로부터 획득한 음성정보는 두 마이크에 전달된 신호를 CC(Cross Correlation)방법을 사용하여 지연시간을 측정한 후 음원의 방향각을 검출하였다. 최종적으로 영상데이터로부터 측정된 정보와 음성데이터로부터 측정된 정보를 비교분석하여 현재 발화자의 위치를 추정하게 된다. 실험 결과, 발화자 검출률은 86.3%로 기존에 연구된 시스템의 발화자 검출률인 65.5%보다 20.8%향상된 결과를 확인하였다.",
+      "year": 2010,
+      "venue": "한국인터넷정보학회 학술발표대회 논문집",
+      "authors": [
+        "안준호",
+        "진상현",
+        "홍광석"
+      ],
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Internet of Things and Social Network Interactions",
+        "Innovation in Digital Healthcare Systems",
+        "Gait Recognition and Analysis"
+      ],
+      "keywords": [
+        "Artificial intelligence",
+        "Computer science",
+        "Mathematics",
+        "Pattern recognition (psychology)"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W2212320473",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2212320473",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0637,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.275278,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W1598977256",
+      "title": "확률분포 통합 형태를 이용한 음성과 제스처의 멀티모달 융합",
+      "abstract": "최근 멀티모달 융합 인식은 유비쿼터스 연구 분야에서 큰 이슈로 대두되고 있다. 특히, 음성과 제스처는 인간과 기계간의 상호작용에 있어서 가장 중요한 모달리티로 떠오르고 있다. 비록 음성인식 기술이 많은 발전을 해왔지만 잡음이 있는 환경에서 음성인식률이 저하된다는 심각한 문제를 가지고 있다. 이와 같은 경우, 음성과 동시에 발생하는 제스처는 음성의 의미를 이해하는데 좋은 대안으로 사용할 수 있다. 본 논문에서는 음성과 제스처의 멀티모달 융합 인식을 위하여 두 모달리티의 이산적 확률밀도 분포를 통합하여 하나의 새로운 확률밀도 분포를 생성하고, 이를 이용하여 음성과 제스처를 융합 인식하는 새로운 멀티모달 융합 방법을 제시한다. 실험은 실시간 환경에서 마이크로폰과 3축 가속도 센서를 이용하여 진행되었다. 본 논문에서 제시한 통합된 확률밀도 분포의 융합인식률이 기존의 단순한 확률밀도 덧셈에 의한 방법에 비하여 보다 더 효과적임을 보였다.",
+      "year": 2008,
+      "venue": "한국정보과학회 학술발표논문집",
+      "authors": [
+        "이지근",
+        "한문성",
+        "김진태"
+      ],
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Military Technology and Strategies",
+        "Legal and Regulatory Analysis",
+        "Linguistic, Cultural, and Literary Studies"
+      ],
+      "keywords": [
+        "Computer science",
+        "Business"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W1598977256",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1598977256",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0634,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 1.0,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.275216,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "a6852a6f4fc1e924614a16af85d16f954db49210",
+      "title": "온라인 학습 상황에서 행동 로그, 생리심리반응 및 시험불안을 통한 멀티모달(Multimodal) 학업성취 예측모형 개발",
+      "abstract": "",
+      "year": 2018,
+      "venue": "",
+      "authors": [
+        "성한올",
+        "조일현"
+      ],
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Psychology"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/a6852a6f4fc1e924614a16af85d16f954db49210",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "a6852a6f4fc1e924614a16af85d16f954db49210",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0658,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.8,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.259788,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "0379a75d06800a002a34c928b7f10fd449da5ed5",
+      "title": "독감 확산 예측을 위한 멀티모달 학습과 웨어러블 센서 기반의 기침 감지 시스템 설계",
+      "abstract": "",
+      "year": 2018,
+      "venue": "",
+      "authors": [
+        "강재식",
+        "백문기",
+        "최형탁",
+        "이규철"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/0379a75d06800a002a34c928b7f10fd449da5ed5",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "0379a75d06800a002a34c928b7f10fd449da5ed5",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.8,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.244,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "9897c0d00c6f86bac4b6d1ad2cedc75e0fe3e735",
+      "title": "멀티모달 데이터 기반 위험 발생 유사성 비교 방법",
+      "abstract": "",
+      "year": 2019,
+      "venue": "",
+      "authors": [
+        "권은정",
+        "신원재",
+        "이용태",
+        "이규철",
+        "Eun-Young Kwon",
+        "W. Shin",
+        "Yongtai Lee",
+        "Kyu-Chul Lee"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/9897c0d00c6f86bac4b6d1ad2cedc75e0fe3e735",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "9897c0d00c6f86bac4b6d1ad2cedc75e0fe3e735",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.7,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.236,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "94ff231ff5f0b7de971f9867c8e4d8540ce3bf68",
+      "title": "펨토초 펄스 레이저를 이용한 고속 멀티모달 비선형 현미경의 개발",
+      "abstract": "",
+      "year": 2019,
+      "venue": "",
+      "authors": [
+        "강운교",
+        "류지훈",
+        "송준우",
+        "김진원",
+        "유홍기",
+        "권보미"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/94ff231ff5f0b7de971f9867c8e4d8540ce3bf68",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "94ff231ff5f0b7de971f9867c8e4d8540ce3bf68",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.7,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.236,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "e0c948aadecb5ca2ef8ddcec3e86cbb6f7722cd4",
+      "title": "Enhancing multimodal interaction of intelligent interactive systems via thermal feedback = 지능형 인터랙티브 시스템의 멀티모달 인터랙션 증진을 위한 열 피드백",
+      "abstract": "",
+      "year": 2019,
+      "venue": "",
+      "authors": [
+        "Se-Young Kim"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/e0c948aadecb5ca2ef8ddcec3e86cbb6f7722cd4",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "e0c948aadecb5ca2ef8ddcec3e86cbb6f7722cd4",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.7,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.236,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "a6e4d68c70fa56147e8a5da33fa3f6fe0881955b",
+      "title": "멀티모달 및 생성 AI를 통한 디자인 연구방법: 민족지학적 방법론을 데이터 기반 분석으로 강화하기",
+      "abstract": "This research examines the application of Multimodal and Generative AI in analyzing interior design trends within the South Korean market. The objective is to enhance traditional ethnographic research methods with AI's quantitative capabilities, offering a more comprehensive understanding of design preferences. This methodology uses AI tools to systematically analyze and categorize design elements from a large dataset of interior design images sourced from a relevant online platform. This process involves extracting key visual trends and patterns using AI-driven semantic analysis and clustering techniques. The study identifies and classifies four dominant design trends, providing a structured overview of current market preferences. By integrating AI into design trend analysis, the study demonstrates a novel approach to understanding consumer preferences, potentially influencing future design decisions. This use of AI in design research broadens the scope of traditional ethnographic studies in design and provides practical insights for designers and industry practitioners, suggesting a shift towards more data-driven design practice.",
+      "year": 2023,
+      "venue": "Korea Institute of Design Research Society",
+      "authors": [
+        "Penalva Tebar Jose Miguel",
+        "Ken Nah"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [],
+      "keywords": [],
+      "tldr": "The use of AI in design research broadens the scope of traditional ethnographic studies in design and provides practical insights for designers and industry practitioners, suggesting a shift towards more data-driven design practice.",
+      "url": "https://www.semanticscholar.org/paper/a6e4d68c70fa56147e8a5da33fa3f6fe0881955b",
+      "pdf_url": "",
+      "doi": "10.46248/kidrs.2023.4.27",
+      "openalex_id": "",
+      "semantic_scholar_id": "a6e4d68c70fa56147e8a5da33fa3f6fe0881955b",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.6714,
+        "novelty": 1.0,
+        "freshness": 0.3,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.231429,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.38,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "4374c98315815e86577d9dc04575654b935cc710",
+      "title": "자율주행 환경에서 멀티모달 에이전트의 인터페이스가 신뢰감과 안전감에 미치는 영향 - 비주행과업 및 제어권 전환 맥락을 중심으로 -",
+      "abstract": "",
+      "year": 2020,
+      "venue": "",
+      "authors": [
+        "홍승혜",
+        "최준호"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Physics"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/4374c98315815e86577d9dc04575654b935cc710",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "4374c98315815e86577d9dc04575654b935cc710",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.6,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.228,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "af1554f2999b61c17c5dc1cb73728ad89ac684e4",
+      "title": "멀티태스킹 상황에서의 멀티모달 음악 인터페이스 제안",
+      "abstract": "",
+      "year": 2020,
+      "venue": "",
+      "authors": [
+        "현지윤",
+        "박승순",
+        "강연아"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Computer Science"
+      ],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/af1554f2999b61c17c5dc1cb73728ad89ac684e4",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "af1554f2999b61c17c5dc1cb73728ad89ac684e4",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.6,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.228,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "semantic_scholar",
+      "paper_id": "bb6d1aa962ac7552b3befea1cd37bd2f6134b70d",
+      "title": "멀티모달 발화 정보를 이용한 대화 제스쳐 생성",
+      "abstract": "",
+      "year": 2020,
+      "venue": "",
+      "authors": [
+        "Yoon Youngwoo",
+        "Minsu Jang",
+        "Lee Jae Yeon",
+        "Kim Jae Hong"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [],
+      "keywords": [],
+      "tldr": "",
+      "url": "https://www.semanticscholar.org/paper/bb6d1aa962ac7552b3befea1cd37bd2f6134b70d",
+      "pdf_url": "",
+      "doi": "",
+      "openalex_id": "",
+      "semantic_scholar_id": "bb6d1aa962ac7552b3befea1cd37bd2f6134b70d",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.6,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.228,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    },
+    {
+      "source": "openalex",
+      "paper_id": "https://openalex.org/W4398224864",
+      "title": "Detailed-view Autonomous Vehicle Trajectory Prediction with Stratified Transformers",
+      "abstract": "자율 주행 차량의 궤적을 정확하게 예측하는 것은 안전한 주행을 보장하는 데 필수적이지만 멀티모달 미래 궤적을 예측하는 것은 어려울 수 있다. 어텐션과 트랜스포머와 같은 최근의 접근 방식은 에이전트 상호 작용과 지도 문맥를 고려하여 최첨단 성능을 달성하였다. 본 연구에서는 트랜스포머를 사용한 에이전트 중심 접근 방식을 사용하여 환경에 대한 포괄적인 이해를 제공하는 궤적 예측에 초점을 맞추었다. 제안한 접근 방식은 주변 에이전트나 차선을 레벨로 배치하고 각 레벨의 정보를 인코딩하는 상세뷰 공간 컨텍스트 인코딩을 도입하여 복잡한 공간 관계를 효율적으로 인코딩할 수 있다. 제안 궤적 예측 기법에 트랜스포머 모델을 적용하였다. 제안 기법은 아르고버스 벤치마크에서 평가되었으며 정확도 측면에서 최첨단 기법 대비 우수함을 보였다.",
+      "year": 2024,
+      "venue": "Journal of the Institute of Electronics and Information Engineers",
+      "authors": [
+        "Ngan Linh Nguyen",
+        "Myungsik Yoo"
+      ],
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "fields_of_study": [
+        "Autonomous Vehicle Technology and Safety",
+        "Advanced Neural Network Applications",
+        "Traffic Prediction and Management Techniques"
+      ],
+      "keywords": [
+        "Trajectory",
+        "Transformer",
+        "Computer science",
+        "Engineering",
+        "Electrical engineering",
+        "Physics",
+        "Voltage"
+      ],
+      "tldr": "",
+      "url": "https://openalex.org/W4398224864",
+      "pdf_url": "",
+      "doi": "10.5573/ieie.2024.61.4.3",
+      "openalex_id": "https://openalex.org/W4398224864",
+      "semantic_scholar_id": "",
+      "score_details": {
+        "relevance": 0.0,
+        "prominence": 0.0,
+        "difficulty_match": 0.5,
+        "novelty": 1.0,
+        "freshness": 0.2,
+        "history_similarity": 0.0
+      },
+      "final_score": 0.196,
+      "estimated_difficulty": "intermediate",
+      "estimated_difficulty_score": 0.5,
+      "rationale": ""
+    }
+  ]
+}

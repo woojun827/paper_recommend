@@ -1,0 +1,1314 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 40,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4398224864",
+      "doi": "https://doi.org/10.5573/ieie.2024.61.4.3",
+      "title": "Detailed-view Autonomous Vehicle Trajectory Prediction with Stratified Transformers",
+      "display_name": "Detailed-view Autonomous Vehicle Trajectory Prediction with Stratified Transformers",
+      "relevance_score": 4.4701395,
+      "publication_year": 2024,
+      "publication_date": "2024-04-30",
+      "ids": {
+        "openalex": "https://openalex.org/W4398224864",
+        "doi": "https://doi.org/10.5573/ieie.2024.61.4.3"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5573/ieie.2024.61.4.3",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5573/ieie.2024.61.4.3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210213184",
+          "display_name": "Journal of the Institute of Electronics and Information Engineers",
+          "issn_l": "2287-5026",
+          "issn": [
+            "2287-5026",
+            "2288-159X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of the Institute of Electronics and Information Engineers",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5113199844",
+            "display_name": "Ngan Linh Nguyen",
+            "orcid": "https://orcid.org/0009-0003-4770-2923"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Ngan Linh Nguyen",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5089437153",
+            "display_name": "Myungsik Yoo",
+            "orcid": "https://orcid.org/0000-0002-5578-6931"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Myungsik Yoo",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5113199844"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.06933318,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "61",
+        "issue": "4",
+        "first_page": "3",
+        "last_page": "9"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11099",
+        "display_name": "Autonomous Vehicle Technology and Safety",
+        "score": 0.996399998664856,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2203",
+          "display_name": "Automotive Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11099",
+          "display_name": "Autonomous Vehicle Technology and Safety",
+          "score": 0.996399998664856,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2203",
+            "display_name": "Automotive Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10036",
+          "display_name": "Advanced Neural Network Applications",
+          "score": 0.9829000234603882,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11344",
+          "display_name": "Traffic Prediction and Management Techniques",
+          "score": 0.953000009059906,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/trajectory",
+          "display_name": "Trajectory",
+          "score": 0.6062992811203003
+        },
+        {
+          "id": "https://openalex.org/keywords/transformer",
+          "display_name": "Transformer",
+          "score": 0.4455886781215668
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4296022951602936
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2853264808654785
+        },
+        {
+          "id": "https://openalex.org/keywords/electrical-engineering",
+          "display_name": "Electrical engineering",
+          "score": 0.1914476752281189
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.10955199599266052
+        },
+        {
+          "id": "https://openalex.org/keywords/voltage",
+          "display_name": "Voltage",
+          "score": 0.04719376564025879
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C13662910",
+          "wikidata": "https://www.wikidata.org/wiki/Q193139",
+          "display_name": "Trajectory",
+          "level": 2,
+          "score": 0.6062992811203003
+        },
+        {
+          "id": "https://openalex.org/C66322947",
+          "wikidata": "https://www.wikidata.org/wiki/Q11658",
+          "display_name": "Transformer",
+          "level": 3,
+          "score": 0.4455886781215668
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4296022951602936
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2853264808654785
+        },
+        {
+          "id": "https://openalex.org/C119599485",
+          "wikidata": "https://www.wikidata.org/wiki/Q43035",
+          "display_name": "Electrical engineering",
+          "level": 1,
+          "score": 0.1914476752281189
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.10955199599266052
+        },
+        {
+          "id": "https://openalex.org/C165801399",
+          "wikidata": "https://www.wikidata.org/wiki/Q25428",
+          "display_name": "Voltage",
+          "level": 2,
+          "score": 0.04719376564025879
+        },
+        {
+          "id": "https://openalex.org/C1276947",
+          "wikidata": "https://www.wikidata.org/wiki/Q333",
+          "display_name": "Astronomy",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5573/ieie.2024.61.4.3",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5573/ieie.2024.61.4.3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210213184",
+            "display_name": "Journal of the Institute of Electronics and Information Engineers",
+            "issn_l": "2287-5026",
+            "issn": [
+              "2287-5026",
+              "2288-159X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of the Institute of Electronics and Information Engineers",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W1941703695",
+        "https://openalex.org/W4248382324",
+        "https://openalex.org/W4396696052"
+      ],
+      "abstract_inverted_index": {
+        "자율": [
+          0
+        ],
+        "주행": [
+          1
+        ],
+        "차량의": [
+          2
+        ],
+        "궤적을": [
+          3,
+          14
+        ],
+        "정확하게": [
+          4
+        ],
+        "예측하는": [
+          5,
+          15
+        ],
+        "것은": [
+          6,
+          16
+        ],
+        "안전한": [
+          7
+        ],
+        "주행을": [
+          8
+        ],
+        "보장하는": [
+          9
+        ],
+        "데": [
+          10
+        ],
+        "필수적이지만": [
+          11
+        ],
+        "멀티모달": [
+          12
+        ],
+        "미래": [
+          13
+        ],
+        "어려울": [
+          17
+        ],
+        "수": [
+          18,
+          75
+        ],
+        "있다.": [
+          19,
+          76
+        ],
+        "어텐션과": [
+          20
+        ],
+        "트랜스포머와": [
+          21
+        ],
+        "같은": [
+          22
+        ],
+        "최근의": [
+          23
+        ],
+        "접근": [
+          24,
+          41,
+          54
+        ],
+        "방식은": [
+          25,
+          55
+        ],
+        "에이전트": [
+          26,
+          39
+        ],
+        "상호": [
+          27
+        ],
+        "작용과": [
+          28
+        ],
+        "지도": [
+          29
+        ],
+        "문맥를": [
+          30
+        ],
+        "고려하여": [
+          31
+        ],
+        "최첨단": [
+          32,
+          91
+        ],
+        "성능을": [
+          33
+        ],
+        "달성하였다.": [
+          34
+        ],
+        "본": [
+          35
+        ],
+        "연구에서는": [
+          36
+        ],
+        "트랜스포머를": [
+          37
+        ],
+        "사용한": [
+          38
+        ],
+        "중심": [
+          40
+        ],
+        "방식을": [
+          42
+        ],
+        "사용하여": [
+          43
+        ],
+        "환경에": [
+          44
+        ],
+        "대한": [
+          45
+        ],
+        "포괄적인": [
+          46
+        ],
+        "이해를": [
+          47
+        ],
+        "제공하는": [
+          48
+        ],
+        "궤적": [
+          49,
+          78
+        ],
+        "예측에": [
+          50
+        ],
+        "초점을": [
+          51
+        ],
+        "맞추었다.": [
+          52
+        ],
+        "제안한": [
+          53
+        ],
+        "주변": [
+          56
+        ],
+        "에이전트나": [
+          57
+        ],
+        "차선을": [
+          58
+        ],
+        "레벨로": [
+          59
+        ],
+        "배치하고": [
+          60
+        ],
+        "각": [
+          61
+        ],
+        "레벨의": [
+          62
+        ],
+        "정보를": [
+          63
+        ],
+        "인코딩하는": [
+          64
+        ],
+        "상세뷰": [
+          65
+        ],
+        "공간": [
+          66,
+          71
+        ],
+        "컨텍스트": [
+          67
+        ],
+        "인코딩을": [
+          68
+        ],
+        "도입하여": [
+          69
+        ],
+        "복잡한": [
+          70
+        ],
+        "관계를": [
+          72
+        ],
+        "효율적으로": [
+          73
+        ],
+        "인코딩할": [
+          74
+        ],
+        "제안": [
+          77,
+          84
+        ],
+        "예측": [
+          79
+        ],
+        "기법에": [
+          80
+        ],
+        "트랜스포머": [
+          81
+        ],
+        "모델을": [
+          82
+        ],
+        "적용하였다.": [
+          83
+        ],
+        "기법은": [
+          85
+        ],
+        "아르고버스": [
+          86
+        ],
+        "벤치마크에서": [
+          87
+        ],
+        "평가되었으며": [
+          88
+        ],
+        "정확도": [
+          89
+        ],
+        "측면에서": [
+          90
+        ],
+        "기법": [
+          92
+        ],
+        "대비": [
+          93
+        ],
+        "우수함을": [
+          94
+        ],
+        "보였다.": [
+          95
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4411547790",
+      "doi": "https://doi.org/10.5626/jok.2025.52.6.461",
+      "title": "Phishing Webpage Detection using URL and HTML Graphs based on a Multimodal AutoEncoder Ensemble",
+      "display_name": "Phishing Webpage Detection using URL and HTML Graphs based on a Multimodal AutoEncoder Ensemble",
+      "relevance_score": 4.0007877,
+      "publication_year": 2025,
+      "publication_date": "2025-06-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4411547790",
+        "doi": "https://doi.org/10.5626/jok.2025.52.6.461"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5626/jok.2025.52.6.461",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5626/jok.2025.52.6.461",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210220148",
+          "display_name": "Journal of KIISE",
+          "issn_l": "2383-6296",
+          "issn": [
+            "2383-6296",
+            "2383-630X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4383696037",
+          "host_organization_name": "Korea Information Science Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4383696037"
+          ],
+          "host_organization_lineage_names": [
+            "Korea Information Science Society"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of KIISE",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111296989",
+            "display_name": "Jun-Ho Yoon",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Jun-Ho Yoon",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113949936",
+            "display_name": "S.-K. Choi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Seok-Hun Choi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102719569",
+            "display_name": "Haejung Kim",
+            "orcid": "https://orcid.org/0000-0003-4855-9711"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hae-Jung Kim",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030898136",
+            "display_name": "Seok-Jun Buu",
+            "orcid": "https://orcid.org/0000-0002-3940-3611"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Seok-Jun Buu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5111296989"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.23727865,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "52",
+        "issue": "6",
+        "first_page": "461",
+        "last_page": "468"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11644",
+        "display_name": "Spam and Phishing Detection",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11644",
+          "display_name": "Spam and Phishing Detection",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12016",
+          "display_name": "Web Data Mining and Analysis",
+          "score": 0.9916999936103821,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11550",
+          "display_name": "Text and Document Classification Technologies",
+          "score": 0.9736999869346619,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/autoencoder",
+          "display_name": "Autoencoder",
+          "score": 0.8658066391944885
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5785779356956482
+        },
+        {
+          "id": "https://openalex.org/keywords/phishing",
+          "display_name": "Phishing",
+          "score": 0.5730055570602417
+        },
+        {
+          "id": "https://openalex.org/keywords/web-page",
+          "display_name": "Web page",
+          "score": 0.5632845759391785
+        },
+        {
+          "id": "https://openalex.org/keywords/information-retrieval",
+          "display_name": "Information retrieval",
+          "score": 0.41713374853134155
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.3921988308429718
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.305916428565979
+        },
+        {
+          "id": "https://openalex.org/keywords/the-internet",
+          "display_name": "The Internet",
+          "score": 0.15042167901992798
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-learning",
+          "display_name": "Deep learning",
+          "score": 0.10958743095397949
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C101738243",
+          "wikidata": "https://www.wikidata.org/wiki/Q786435",
+          "display_name": "Autoencoder",
+          "level": 3,
+          "score": 0.8658066391944885
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5785779356956482
+        },
+        {
+          "id": "https://openalex.org/C83860907",
+          "wikidata": "https://www.wikidata.org/wiki/Q135005",
+          "display_name": "Phishing",
+          "level": 3,
+          "score": 0.5730055570602417
+        },
+        {
+          "id": "https://openalex.org/C21959979",
+          "wikidata": "https://www.wikidata.org/wiki/Q36774",
+          "display_name": "Web page",
+          "level": 2,
+          "score": 0.5632845759391785
+        },
+        {
+          "id": "https://openalex.org/C23123220",
+          "wikidata": "https://www.wikidata.org/wiki/Q816826",
+          "display_name": "Information retrieval",
+          "level": 1,
+          "score": 0.41713374853134155
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3921988308429718
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.305916428565979
+        },
+        {
+          "id": "https://openalex.org/C110875604",
+          "wikidata": "https://www.wikidata.org/wiki/Q75",
+          "display_name": "The Internet",
+          "level": 2,
+          "score": 0.15042167901992798
+        },
+        {
+          "id": "https://openalex.org/C108583219",
+          "wikidata": "https://www.wikidata.org/wiki/Q197536",
+          "display_name": "Deep learning",
+          "level": 2,
+          "score": 0.10958743095397949
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5626/jok.2025.52.6.461",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5626/jok.2025.52.6.461",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210220148",
+            "display_name": "Journal of KIISE",
+            "issn_l": "2383-6296",
+            "issn": [
+              "2383-6296",
+              "2383-630X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4383696037",
+            "host_organization_name": "Korea Information Science Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4383696037"
+            ],
+            "host_organization_lineage_names": [
+              "Korea Information Science Society"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of KIISE",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1488511360",
+        "https://openalex.org/W1781894645",
+        "https://openalex.org/W2894902932",
+        "https://openalex.org/W569715723",
+        "https://openalex.org/W188332989",
+        "https://openalex.org/W2982387199",
+        "https://openalex.org/W2000745862",
+        "https://openalex.org/W2120930843",
+        "https://openalex.org/W42013907",
+        "https://openalex.org/W2042734105"
+      ],
+      "abstract_inverted_index": {
+        "인터넷의": [
+          0
+        ],
+        "발전으로": [
+          1
+        ],
+        "인해": [
+          2
+        ],
+        "피싱": [
+          3,
+          17,
+          28,
+          58,
+          89
+        ],
+        "공격에": [
+          4
+        ],
+        "노출되는": [
+          5
+        ],
+        "사용자가": [
+          6
+        ],
+        "증가하고": [
+          7
+        ],
+        "있으며,": [
+          8
+        ],
+        "이를": [
+          9
+        ],
+        "예방하기": [
+          10
+        ],
+        "위한": [
+          11
+        ],
+        "효과적인": [
+          12
+        ],
+        "탐지": [
+          13,
+          18,
+          60,
+          103
+        ],
+        "방법이": [
+          14
+        ],
+        "필수적이다.": [
+          15
+        ],
+        "기존의": [
+          16
+        ],
+        "방법은": [
+          19,
+          64
+        ],
+        "주로": [
+          20
+        ],
+        "URL의": [
+          21
+        ],
+        "문자": [
+          22,
+          67
+        ],
+        "시퀀스를": [
+          23
+        ],
+        "분석하는": [
+          24
+        ],
+        "데": [
+          25
+        ],
+        "중점을": [
+          26
+        ],
+        "두었으나,": [
+          27
+        ],
+        "URL은": [
+          29
+        ],
+        "정상": [
+          30
+        ],
+        "URL과": [
+          31,
+          111
+        ],
+        "유사한": [
+          32
+        ],
+        "패턴을": [
+          33
+        ],
+        "모방하고": [
+          34
+        ],
+        "그": [
+          35
+        ],
+        "수명이": [
+          36
+        ],
+        "짧아": [
+          37
+        ],
+        "탐지의": [
+          38
+        ],
+        "정확도에": [
+          39
+        ],
+        "한계가": [
+          40
+        ],
+        "있음이": [
+          41
+        ],
+        "알려졌다.": [
+          42
+        ],
+        "이러한": [
+          43
+        ],
+        "문제를": [
+          44
+        ],
+        "해결하기": [
+          45
+        ],
+        "위해": [
+          46
+        ],
+        "본": [
+          47,
+          92
+        ],
+        "논문에서는": [
+          48
+        ],
+        "URL문자열과": [
+          49
+        ],
+        "HTML": [
+          50,
+          73,
+          112
+        ],
+        "그래프": [
+          51,
+          77,
+          81
+        ],
+        "데이터를": [
+          52,
+          66
+        ],
+        "동시에": [
+          53
+        ],
+        "활용하는": [
+          54
+        ],
+        "멀티모달": [
+          55
+        ],
+        "앙상블": [
+          56
+        ],
+        "기반의": [
+          57
+        ],
+        "웹페이지": [
+          59
+        ],
+        "방법을": [
+          61
+        ],
+        "제안한다.": [
+          62
+        ],
+        "이": [
+          63
+        ],
+        "URL": [
+          65
+        ],
+        "단위로": [
+          68
+        ],
+        "분해하여": [
+          69
+        ],
+        "컨볼루션": [
+          70,
+          82
+        ],
+        "오토인코더로": [
+          71
+        ],
+        "처리하고,": [
+          72
+        ],
+        "의": [
+          74
+        ],
+        "DOM": [
+          75
+        ],
+        "구조를": [
+          76
+        ],
+        "형태로": [
+          78
+        ],
+        "변환한": [
+          79
+        ],
+        "후": [
+          80
+        ],
+        "오토인코더를": [
+          83
+        ],
+        "통해": [
+          84,
+          88,
+          110
+        ],
+        "분석하여": [
+          85
+        ],
+        "트랜스포머": [
+          86
+        ],
+        "레이어를": [
+          87
+        ],
+        "여부를": [
+          90
+        ],
+        "판단한다.": [
+          91
+        ],
+        "연구에서": [
+          93
+        ],
+        "제안한": [
+          94
+        ],
+        "모델은": [
+          95
+        ],
+        "기존": [
+          96
+        ],
+        "모델": [
+          97
+        ],
+        "대비": [
+          98
+        ],
+        "F1": [
+          99
+        ],
+        "Score": [
+          100
+        ],
+        "최대": [
+          101
+        ],
+        "18.91%p의": [
+          102
+        ],
+        "성능": [
+          104
+        ],
+        "개선을": [
+          105
+        ],
+        "달성했다.": [
+          106
+        ],
+        "또한,": [
+          107
+        ],
+        "케이스": [
+          108
+        ],
+        "분석을": [
+          109
+        ],
+        "간의": [
+          113
+        ],
+        "상호관계성을": [
+          114
+        ],
+        "보인다.": [
+          115
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}
